@@ -1,7 +1,3 @@
-Sure! Here's a README for your GitHub repository that provides an overview of the project, how to set it up, and how to use it:
-
----
-
 # Facebook Post UI
 
 This repository contains a simple HTML and CSS-based implementation of a Facebook post UI. It includes a user profile section, post image, interactions, reactions, and comments, styled to resemble a social media post.
